@@ -1,0 +1,15 @@
+by\minenkova\springprogect1\controller\MainController.class
+by\minenkova\springprogect1\SpringProgect1Application.class
+by\minenkova\springprogect1\config\WebConfig.class
+by\minenkova\springprogect1\entity\Person.class
+by\minenkova\springprogect1\dto\PersonDto.class
+by\minenkova\springprogect1\exceptions\NoSuchEntityException.class
+by\minenkova\springprogect1\validator\CellPhone.class
+by\minenkova\springprogect1\dto\NewPersonDto.class
+by\minenkova\springprogect1\service\PersonServiceImpl.class
+by\minenkova\springprogect1\validator\PhoneValidator.class
+by\minenkova\springprogect1\controller\PersonController.class
+by\minenkova\springprogect1\repository\PersonRepository.class
+by\minenkova\springprogect1\ServletInitializer.class
+by\minenkova\springprogect1\service\PersonService.class
+by\minenkova\springprogect1\form\PersonForm.class
